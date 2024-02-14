@@ -1,0 +1,4 @@
+['remote "remote_storage"']
+url = Y:\Users\Jiakun\FloodAI\scripts\flood-56\dvc_remote
+[core]
+remote = remote_storage

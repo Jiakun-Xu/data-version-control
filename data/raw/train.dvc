@@ -1,0 +1,7 @@
+md5: 6882729b6665547776349253de740cd9
+outs:
+- cache: true
+  md5: 7adc7abb69056f4d7afb512c78f2fce9.dir
+  metric: false
+  path: data/raw/train
+wdir: ..\..
