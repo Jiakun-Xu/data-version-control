@@ -1,0 +1,7 @@
+md5: 49de57b4c0e25112a061fb854716b19d
+outs:
+- cache: true
+  md5: 74eadc2cfb7f0f09bab8b2457752a6e5
+  metric: false
+  path: data/prepared/train.csv
+wdir: ..\..
